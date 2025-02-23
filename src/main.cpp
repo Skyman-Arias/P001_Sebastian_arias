@@ -1,9 +1,9 @@
 /*
-header
-header
-header
-header
-header
+University Amreike
+Author: Sebastian Arias
+Practice #:1
+Date: 16/feb/25
+Description: This programm print an "Hello world" on the console
 */
 
 #include <iostream>
